@@ -3,7 +3,7 @@ permalink: /about/
 title: "About Erica"
 author_profile: true
 header:
-    image: "/image/wall.png"
+    image: "/images/wall.png"
 ---
 <!-- 
 <p align="center">

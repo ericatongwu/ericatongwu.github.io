@@ -112,8 +112,8 @@ author:
   bio              : "SDE | UX | Playwright | Director"
   location         : "Los Angeles, CA"
   email            : "twu665@usc.edu"
-  linkinin         : "https://www.linkedin.com/in/tong-wu-b3702811b/"
-  github           : "https://github.com/ericatongwu"
+  linkinin         : "tong-wu-b3702811b"
+  github           : "ericatongwu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
