@@ -4,6 +4,9 @@ main:
     url: /about/
   - title: "Chatbot"
     url: /chatbot/
+  - title: "Theater"
+    url: /theater/
+    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
