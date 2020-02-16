@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Tong Wu"
-  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_erica.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SDE | UX | Playwright | Director"
   location         : "Los Angeles, CA"
   email            : "twu665@usc.edu"
