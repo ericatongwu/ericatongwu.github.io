@@ -20,7 +20,7 @@ title                    : "Erica Tong Wu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tong (Erica) Wu"
-description              : "SDE | UX | Playwright | Director | Dreamer Portolio"
+description              : "SDE | UX | Playwright | Director"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,11 @@ analytics:
 author:
   name             : "Tong Wu"
   avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SDE | UX | Playwright | Director | Dreamer Portolio"
+  bio              : "SDE | UX | Playwright | Director"
   location         : "Los Angeles, CA"
   email            : "twu665@usc.edu"
+  linkinin         : "https://www.linkedin.com/in/tong-wu-b3702811b/"
+  github           : "https://github.com/ericatongwu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
