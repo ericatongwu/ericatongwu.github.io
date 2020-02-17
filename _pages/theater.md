@@ -14,8 +14,8 @@ It is the first Chinese studnet theater club at USC.
 I have been worked with three productions.
 * The Bitter Sweet
 
-<!-- ![alt]({{ site.url }}{{ site.baseurl }}/images/IMG_6577.JPG)
-![alt]({{ site.url }}{{ site.baseurl }}/images/IMG_6586.JPG) -->
+![Crew](/images/IMG_6577.JPG)
+![Crew](/images/IMG_6586.JPG)
 
 * Marcel's 8
 
