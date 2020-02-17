@@ -4,13 +4,11 @@ permalink: /theater/
 title: "Theater Experiences"
 author_profile: true
 header:
-    image: "/images/wall.jpg"
+    image: "/images/IMG_4509.JPG"
 ---
 
 ### Gate Five Theater Club
-<p align="center">
-  <img src="https://ericatongwu.github.io/images/gavefive.png?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
+![Gate Five Logo](/images/gatefive.png)
 
 It is the first Chinese studnet theater club at USC.
 I have been worked with three productions.
@@ -19,7 +17,9 @@ I have been worked with three productions.
 * The Big Sleep (Or is it?)
 
 ### Saying  Theater Club
+![Saying Logo](/images/saying.png)
+
 The best Chinese student theater club of University of Wisconsin Madison
 I have been worked with 2 productions.
-* The old Story
+* The Old Story
 * The Insanity
