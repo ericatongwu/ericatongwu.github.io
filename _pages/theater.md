@@ -14,18 +14,18 @@ It is the first Chinese studnet theater club at USC.
 I have been worked with three productions.
 * The Bitter Sweet
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/IMG_6577.JPG)
-![alt]({{ site.url }}{{ site.baseurl }}/images/IMG_6586.JPG)
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/images/IMG_6577.JPG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/IMG_6586.JPG) -->
 
 * Marcel's 8
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/0327.JPG)
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/images/0327.JPG) -->
 
 * The Big Sleep (Or is it?)
-
+<!-- 
 ![alt]({{ site.url }}{{ site.baseurl }}/images/AI11.JPG)
 ![alt]({{ site.url }}{{ site.baseurl }}/images/AI21.JPG)
-![alt]({{ site.url }}{{ site.baseurl }}/images/AI32.JPG)
+![alt]({{ site.url }}{{ site.baseurl }}/images/AI32.JPG) -->
 
 ### Saying  Theater Club
 ![Saying Logo](/images/saying.png)
@@ -34,8 +34,8 @@ The best Chinese student theater club of University of Wisconsin Madison
 I have been worked with 2 productions.
 * The Old Story
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/DSC_1820.JPG)
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/images/DSC_1820.JPG) -->
 
 * The Insanity
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/insanity_poster.jpg)
+<!-- ![alt]({{ site.url }}{{ site.baseurl }}/images/insanity_poster.jpg) -->

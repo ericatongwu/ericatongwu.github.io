@@ -6,10 +6,6 @@ author_profile: true
 header:
     overlay_image: "/images/bio_erica.jpg"
 ---
-<!-- 
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p> -->
 
 ### About
 
