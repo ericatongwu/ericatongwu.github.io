@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Erica"
+title: "About"
 author_profile: true
 header:
     image: "/images/wall.jpg"
@@ -9,6 +9,12 @@ header:
 <p align="center">
   <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p> -->
+
+## About
+    
+## Education
+## Skills
+## Publications
 
     I am a Master student of Applied Data Science in the [Computer Science Department](https://viterbischool.usc.edu/academics/) at [University of Southern California](https://www.usc.edu/), and I am graduating in May 2020. [[Curriculum Vitae](https://drive.google.com/drive/my-drive)]
 
