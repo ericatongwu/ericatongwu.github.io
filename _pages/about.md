@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-    overlay_image: /images/wall.jpg
+    overlay_image: "/images/wall.jpg"
 ---
 <!-- 
 <p align="center">
