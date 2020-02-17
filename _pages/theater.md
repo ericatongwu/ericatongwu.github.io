@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /theater/
 title: "Theater Experiences"
 author_profile: true

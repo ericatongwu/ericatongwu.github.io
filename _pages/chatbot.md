@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: single
 permalink: /chatbot/
 title: Chat-bot project
 author_profile: true
 header:
-    image: "/image/chatbot.png"
+    image: "/images/chatbot.png"
 ---
