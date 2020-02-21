@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-    overlay_image: "/images/IMG_5423.HEIC"
+    overlay_image: "/images/IMG_5423.JPG"
 ---
 
 ### About
